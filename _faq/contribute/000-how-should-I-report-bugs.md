@@ -18,7 +18,7 @@ something not quite right, please file an issue on our github repo.
 * Submit an [issue](https://github.com/passbolt/passbolt/issues)
   * Check first that a similar issue does not already exist.
   * Make sure you fill in the earliest version that you know has the issue if it is a bug.
-  * Clearly describe the issue including steps to reproduce the bug
+  * Clearly describe the issue including steps to reproduce the buga
 
 ## Reporting a security Issue
 
